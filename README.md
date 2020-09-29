@@ -1,7 +1,7 @@
 # fluffy-robot
 
 
-This file is purely a Duplicate of the web pages already existing on Google search. I have created a look alike of the web page. This project is developed using Basic HTML and CSS code. However, the source code of the web page is developed on Flexbox. I have used basic styling to position the content.
+This file is purely a Duplicate of the web pages already existing on Google search. I have created a look alike of the web page. This project is developed using Basic HTML and CSS code. However, the source code of the web page is developed using Flexbox. I have used basic styling to position the content.
 
 This project is picked up from FreeCodeAcademy. You can find the source page link at the bottom of my recreated web page.
 
