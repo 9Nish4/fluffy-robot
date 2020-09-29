@@ -1,0 +1,43 @@
+a{
+text-decoration: none;
+}
+
+.name{
+
+    text-align: center;
+}
+.conatiner{
+    background-color: lightgray;
+    border-radius: 0.5em;
+    margin: 1%;
+    
+}
+.introduction {
+    border: 1px solid darkgrey;
+    padding: 1%;
+    margin: 1%;
+}
+.image{
+    border: 1px solid darkgrey;
+    padding: 1%;
+    margin: 1%;
+}
+.refernce{
+    text-align: center;
+    font-style: oblique;
+}
+.img-circle{
+    border-radius: 15em;
+    display: block;
+   margin: auto;
+}
+figcaption{
+    background-color: darkgray;
+    text-align: center;
+}
+.timeline{
+    margin: 1%;    
+}
+.source{
+    font-style: oblique;
+}
